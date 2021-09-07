@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+hello world
+=======
+this is for collabarating
+>>>>>>> updated
+
